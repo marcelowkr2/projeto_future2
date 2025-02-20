@@ -20,8 +20,8 @@
 
 ### 3️⃣ Próximos Passos
 1️⃣ Criar a estrutura do projeto em Spring Boot
-2️⃣ Definir os endpoints principais da API
-3️⃣ Modelar o banco de dados
-4️⃣ Desenvolver o módulo de questionários
-5️⃣ Criar a engine de cálculo da maturidade
-6️⃣ Implementar os relatórios e dashboards
+2️⃣ Definir os endpoints principais da API<br>
+3️⃣ Modelar o banco de dados<br>
+4️⃣ Desenvolver o módulo de questionários<br>
+5️⃣ Criar a engine de cálculo da maturidade<br>
+6️⃣ Implementar os relatórios e dashboards<br>
