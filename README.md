@@ -24,4 +24,21 @@
 3️⃣ Modelar o banco de dados<br>
 4️⃣ Desenvolver o módulo de questionários<br>
 5️⃣ Criar a engine de cálculo da maturidade<br>
-6️⃣ Implementar os relatórios e dashboards<br>
+6️⃣ Implementar os relatórios e dashboards<br><br>
+
+```
+## Estrutura do Projeto
+📂 cybersec-maturity-platform
+┣ 📂 src/main/java/com/security/maturity
+┃ ┣ 📂 controller → Contém os endpoints REST
+┃ ┣ 📂 service → Regras de negócio e cálculos
+┃ ┣ 📂 repository → Persistência no banco
+┃ ┣ 📂 model → Entidades do banco
+┃ ┣ 📂 dto → Objetos de transferência de dados
+┃ ┗ 📜 CybersecMaturityApplication.java (Classe principal)
+┣ 📂 src/main/resources
+┃ ┣ 📜 application.yml (Configurações do Spring Boot)
+┃ ┗ 📂 db/migration (Scripts para versionamento do banco)
+┣ 📂 test/java/com/security/maturity (Testes unitários)
+┗ 📜 pom.xml (Gerenciamento de dependências com Maven)
+```
